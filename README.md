@@ -9,6 +9,6 @@
 
 - [𝕏.com profile](https://www.x.com/samordera)
 
-- [LinkedIn](https://linkedin.com/in/sam-egbo-6b202927a)
+- [LinkedIn Profile](https://linkedin.com/in/sam-egbo-6b202927a)
 
 - ⚡ Fun fact: I can actually be really fun to be with irl
