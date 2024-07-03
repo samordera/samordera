@@ -1,7 +1,7 @@
 # I'm Sam👋
-## This is where you can find my software dev footprint on the web.
+## And this is where you can find my software dev footprints on the web.
 
-- 🔭 I’m currently working on ![pack.com](https://drive.google.com/thumbnail?id=1DD0ACR8ZZiyyFAmDdIr4ait45Dp4z1Qx)
+- 🔭 I’m currently working on pack.com
   
 - 🤔 Looking for a collaborator and potential co-founder
 
