@@ -1,5 +1,5 @@
 # I'm Sam👋
-## And this is where you can find my software dev footprints on the web.
+## and this is where you can find my software dev footprints on the web.
 
 - 🔭 I’m currently working on pack.com
   
