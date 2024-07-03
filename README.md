@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on pack.com
   
-- 🤔 Looking for a collaborator and potential co-founder
+- 🤔 Looking for at least one collaborator and a potential co-founder
 
 - 📫 How to reach me: deraegbo@gmail.com
 
