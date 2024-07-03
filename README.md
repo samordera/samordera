@@ -11,4 +11,4 @@
 
 - [LinkedIn Profile](https://linkedin.com/in/sam-egbo-6b202927a)
 
-- ⚡ Fun fact: I can actually be really fun to be with irl
+- ⚡ Fun fact: It works on my machine
