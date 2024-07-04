@@ -17,4 +17,4 @@
 - [𝕏.com profile](https://www.x.com/samordera)
 - [LinkedIn Profile](https://linkedin.com/in/sam-egbo-6b202927a)
 
-### ⚡ Fun fact: It works on my machine
+### ⚡ Fun fact: I'm actually not terrible to be around irl
