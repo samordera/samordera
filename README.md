@@ -1,6 +1,8 @@
 # I'm Sam👋
 ## and this is where you can find my software dev footprints on the web.
 
+
+![pack.com](https://drive.google.com/thumbnail?id=1S2TLFA1ntxWQDg5En7VMOXuSVEp4twyR) 
 <!--
 <img src="https://drive.google.com/thumbnail?id=1Iljo3gxRFCgzpcZPQ6DI_JOFiCChb9LQ" alt="" width="721.7px" height="236.3px">
 -->
