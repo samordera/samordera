@@ -1,6 +1,7 @@
 # I'm Sam👋
 ## and this is where you can find my software dev footprints on the web.
 
+<img src="https://drive.google.com/thumbnail?id=1Iljo3gxRFCgzpcZPQ6DI_JOFiCChb9LQ" alt="" width="721.7px" height="236.3px">
 # ![Sam's motto](https://drive.google.com/thumbnail?id=1Iljo3gxRFCgzpcZPQ6DI_JOFiCChb9LQ){ width=721.7px height=236.3px }
 
 - 🔭 I’m currently working on
