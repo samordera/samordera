@@ -3,16 +3,25 @@
 @tailwind utilities;
 @tailwind variants;
 
+.kode-mono-sam {
+    font-family: "Kode Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
 body, html {
-    @apply h-full;
+    @apply h-full kode-mono-sam;
 }
 
 .light body {
-    @apply bg-none;
-    @apply bg-white;
+    @apply bg-none bg-white;
 }
 
 .dark body {
-    @apply bg-none;
-    @apply bg-black;
+    @apply bg-none bg-black;
+}
+
+a {
+    @apply hover:underline no-underline;
 }
