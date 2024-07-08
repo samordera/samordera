@@ -5,7 +5,7 @@
 <img src="https://drive.google.com/thumbnail?id=1Iljo3gxRFCgzpcZPQ6DI_JOFiCChb9LQ" alt="" width="721.7px" height="236.3px">
 -->
 # 🔭 I’m currently working on
-<pre>
+<pre style="padding: 1px;">
   <img href="https://drive.google.com/thumbnail?id=1O8f-bHOIdKoaQpsimfiZXS2MydJXYs8u">
   <strong>Repos</strong>
   <a href="https://github.com/samordera/pack.com-frontend.svelte.js">Svelte Frontend</a>
