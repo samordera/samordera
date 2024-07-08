@@ -19,8 +19,8 @@
   <a href="https://github.com/samordera/image-search">Python Codebase</a>
 </pre>
 <hr>
-### all of my code
-### ![works on my machine](https://drive.google.com/thumbnail?id=1S2TLFA1ntxWQDg5En7VMOXuSVEp4twyR) 
+all of my code
+![works on my machine](https://drive.google.com/thumbnail?id=1S2TLFA1ntxWQDg5En7VMOXuSVEp4twyR) 
 
 ### 🤔 Looking for at least one collaborator and a potential co-founder
 <hr>
