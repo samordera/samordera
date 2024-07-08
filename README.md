@@ -1,5 +1,4 @@
-# I'm Sam👋
-## and this is where you can find my software dev footprints on the web.
+# I'm Sam👋, ## and this is where you can find my software dev footprints on the web.
 
 
 <!--
