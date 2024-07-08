@@ -6,11 +6,11 @@
 -->
 # 🔭 I’m currently working on
 <pre>
-## ![pack.com](https://drive.google.com/thumbnail?id=1O8f-bHOIdKoaQpsimfiZXS2MydJXYs8u)
-  ### Repos
-  - [Svelte Frontend](https://github.com/samordera/pack.com-frontend.svelte.js)
-  - [FastAPI Backend](https://github.com/samordera/pack.com-backend.fastapi.python)
-  - [Node Backend](https://github.com/samordera/pack.com-backend.express.js)
+  <img href="https://drive.google.com/thumbnail?id=1O8f-bHOIdKoaQpsimfiZXS2MydJXYs8u">
+  <h2>Repos</h2>
+  <a href="https://github.com/samordera/pack.com-frontend.svelte.js">Svelte Frontend</a>
+  <a href="https://github.com/samordera/pack.com-backend.fastapi.python">Fast API Backend</a>
+  <a href="https://github.com/samordera/pack.com-backend.express.js">Node.js Backend</a>
 </pre>
 ## Mobile image search
   ### Repos
