@@ -12,7 +12,7 @@
   <a href="https://github.com/samordera/pack.com-backend.fastapi.python">Fast API Backend</a>
   <a href="https://github.com/samordera/pack.com-backend.express.js">Node.js Backend</a>
 </pre>
-## Mobile image search
+<strong>Mobile image search</strong>
   ### Repos
   - [Python Codebase](https://github.com/samordera/image-search)
 
