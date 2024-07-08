@@ -7,7 +7,7 @@
 -->
 ### 🔭 I’m currently working on
 ### ![pack.com](https://drive.google.com/thumbnail?id=1O8f-bHOIdKoaQpsimfiZXS2MydJXYs8u)
-### and so far all of my code
+### and all of my code
 ### ![works on my machine](https://drive.google.com/thumbnail?id=1S2TLFA1ntxWQDg5En7VMOXuSVEp4twyR) 
 
 ### 🤔 Looking for at least one collaborator and a potential co-founder
