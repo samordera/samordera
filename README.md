@@ -8,11 +8,11 @@
 ![pack.com](https://drive.google.com/thumbnail?id=1O8f-bHOIdKoaQpsimfiZXS2MydJXYs8u)
 <pre>
   <strong>Repos</strong>
-  <a href="https://github.com/samordera/pack.com-frontend.svelte.js">Svelte Frontend</a>
-  <br>
-  <a href="https://github.com/samordera/pack.com-backend.fastapi.python">Fast API Backend</a>
-  <br>  
-  <a href="https://github.com/samordera/pack.com-backend.express.js">Node.js Backend</a>
+  <ul>
+    <a href="https://github.com/samordera/pack.com-frontend.svelte.js">Svelte Frontend</a>
+    <a href="https://github.com/samordera/pack.com-backend.fastapi.python">Fast API Backend</a>
+    <a href="https://github.com/samordera/pack.com-backend.express.js">Node.js Backend</a>
+  </ul>
 </pre>
 <hr>
 <h2>Mobile image search</h2>
