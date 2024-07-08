@@ -8,12 +8,12 @@
 ## ![pack.com](https://drive.google.com/thumbnail?id=1O8f-bHOIdKoaQpsimfiZXS2MydJXYs8u)
   ### Repos
   - [Svelte Frontend](https://github.com/samordera/pack.com-frontend.svelte.js)
-  - [FastAPI Backend](https://github.com/samordera/pack.com-frontend.svelte.js)
-  - [Node Backend](https://github.com/samordera/pack.com-frontend.svelte.js)
+  - [FastAPI Backend](https://github.com/samordera/pack.com-backend.fastapi.python)
+  - [Node Backend](https://github.com/samordera/pack.com-backend.express.js)
 
 ## Mobile image search
   ### Repos
-  - [Python Codebase]
+  - [Python Codebase](https://github.com/samordera/image-search)
 
 ### all of my code
 ### ![works on my machine](https://drive.google.com/thumbnail?id=1S2TLFA1ntxWQDg5En7VMOXuSVEp4twyR) 
