@@ -7,7 +7,7 @@
 # 🔭 I’m currently working on
 <pre>
   <img href="https://drive.google.com/thumbnail?id=1O8f-bHOIdKoaQpsimfiZXS2MydJXYs8u">
-  <h2>Repos</h2>
+  <strong>Repos</strong>
   <a href="https://github.com/samordera/pack.com-frontend.svelte.js">Svelte Frontend</a>
   <a href="https://github.com/samordera/pack.com-backend.fastapi.python">Fast API Backend</a>
   <a href="https://github.com/samordera/pack.com-backend.express.js">Node.js Backend</a>
