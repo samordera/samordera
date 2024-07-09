@@ -25,9 +25,10 @@
 
 ### 🤔 Looking for at least one collaborator and a potential co-founder
 <hr>
-### 📫 How to reach me
-- deraegbo@gmail.com
-- [𝕏.com profile](https://www.x.com/samordera)
-- [LinkedIn Profile](https://linkedin.com/in/sam-egbo-6b202927a)
-
-### ⚡ Fun fact: I'm actually not terrible to be around irl
+# 📫 How to reach me
+<pre>
+  <a href="mailto:deraegbo@gmail.com">deraegbo@gmail.com</a>
+  <a href="https://www.x.com/samordera">𝕏.com profile</a>
+  <a href="https://linkedin.com/in/sam-egbo-6b202927a">LinkedIn Profile</a>
+</pre>
+## ⚡ Fun fact: I'm actually NOT terrible to be around irl
