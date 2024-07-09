@@ -2,12 +2,10 @@
 ### If I've worked on any software projects, this is where you'll find it.
 
 
-<!--
-<img src="https://drive.google.com/thumbnail?id=1Iljo3gxRFCgzpcZPQ6DI_JOFiCChb9LQ" alt="" width="721.7px" height="236.3px">
--->
 # 🔭 I’m currently working on
-![pack.com](https://drive.google.com/thumbnail?id=1O8f-bHOIdKoaQpsimfiZXS2MydJXYs8u)
+<img src="https://drive.google.com/thumbnail?id=1Iljo3gxRFCgzpcZPQ6DI_JOFiCChb9LQ" alt="" width="721.7px" height="236.3px">
 <strong>An e-commerce and networking web app</strong>
+<br>
 <pre>
   <strong>Repos</strong>
   <a href="https://github.com/samordera/pack.com-frontend.svelte.js">Svelte Frontend</a>
@@ -17,6 +15,7 @@
 <hr>
 <h2>Mobile image search</h2>
 <strong>A file search mobile app</strong>
+<br>
 <pre>
   <strong>Repos</strong>
   <a href="https://github.com/samordera/image-search">Python Codebase</a>
