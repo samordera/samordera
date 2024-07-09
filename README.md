@@ -20,15 +20,15 @@
   <a href="https://github.com/samordera/image-search">Python Codebase</a>
 </pre>
 <hr>
-<strong>all of my code</strong>
+<strong>All of my code</strong>
 <img src="https://drive.google.com/thumbnail?id=1S2TLFA1ntxWQDg5En7VMOXuSVEp4twyR">
 
-### 🤔 Looking for at least one collaborator and a potential co-founder
+🤔 Looking for at least one collaborator and a potential co-founder
 <hr>
-# 📫 How to reach me
+📫 How to reach me
 <pre>
   <a href="mailto:deraegbo@gmail.com">deraegbo@gmail.com</a>
   <a href="https://www.x.com/samordera">𝕏.com profile</a>
   <a href="https://linkedin.com/in/sam-egbo-6b202927a">LinkedIn Profile</a>
 </pre>
-## ⚡ Fun fact: I'm actually NOT terrible to be around irl
+⚡ Fun fact: I'm actually NOT terrible to be around irl
