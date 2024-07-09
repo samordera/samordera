@@ -7,6 +7,7 @@
 -->
 # 🔭 I’m currently working on
 ![pack.com](https://drive.google.com/thumbnail?id=1O8f-bHOIdKoaQpsimfiZXS2MydJXYs8u)
+An e-commerce and networking web app
 <pre>
   <strong>Repos</strong>
   <a href="https://github.com/samordera/pack.com-frontend.svelte.js">Svelte Frontend</a>
@@ -15,6 +16,7 @@
 </pre>
 <hr>
 <h2>Mobile image search</h2>
+A file search mobile app
 <pre>
   <strong>Repos</strong>
   <a href="https://github.com/samordera/image-search">Python Codebase</a>
