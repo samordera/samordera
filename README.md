@@ -1,4 +1,5 @@
-# I'm Sam👋, and if I've worked on any software projects, this is where you'll find it.
+# I'm Sam👋
+### If I've worked on any software projects, this is where you'll find it.
 
 
 <!--
