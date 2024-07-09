@@ -1,9 +1,9 @@
 # I'm Sam👋
 ### If I've worked on any software projects, this is where you'll find it.
 
-
+https://drive.google.com/thumbnail?id=1O8f-bHOIdKoaQpsimfiZXS2MydJXYs8u
 # 🔭 I’m currently working on
-<img src="https://drive.google.com/thumbnail?id=1Iljo3gxRFCgzpcZPQ6DI_JOFiCChb9LQ" alt="" width="721.7px" height="236.3px">
+<img src="https://drive.google.com/thumbnail?id=1O8f-bHOIdKoaQpsimfiZXS2MydJXYs8u" alt="" width="721.7px" height="236.3px">
 <strong>An e-commerce and networking web app</strong>
 <br>
 <pre>
