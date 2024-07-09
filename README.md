@@ -1,7 +1,6 @@
 # I'm Sam👋
 ### If I've worked on any software projects, this is where you'll find it.
 
-https://drive.google.com/thumbnail?id=1O8f-bHOIdKoaQpsimfiZXS2MydJXYs8u
 # 🔭 I’m currently working on
 <img src="https://drive.google.com/thumbnail?id=1O8f-bHOIdKoaQpsimfiZXS2MydJXYs8u">
 <strong>An e-commerce and networking web app</strong>
