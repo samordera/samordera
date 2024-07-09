@@ -3,7 +3,7 @@
 
 https://drive.google.com/thumbnail?id=1O8f-bHOIdKoaQpsimfiZXS2MydJXYs8u
 # 🔭 I’m currently working on
-<img src="https://drive.google.com/thumbnail?id=1O8f-bHOIdKoaQpsimfiZXS2MydJXYs8u" alt="" width="721.7px" height="236.3px">
+<img src="https://drive.google.com/thumbnail?id=1O8f-bHOIdKoaQpsimfiZXS2MydJXYs8u">
 <strong>An e-commerce and networking web app</strong>
 <br>
 <pre>
